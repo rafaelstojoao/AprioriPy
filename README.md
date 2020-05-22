@@ -1,4 +1,4 @@
-# apyori  by Rafael Stoffalette João
+# AprioriPy  by Rafael Stoffalette João
 
 patterns, pattern recognition, association rules, data mining, machine learning
 
